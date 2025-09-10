@@ -2,7 +2,7 @@ Python script that scans a host for open TCP ports (1–1025) using the socket l
 
 # Python Port Scanner
 
-This project is a simple Python script that scans a target host for open TCP ports (1–1025) using the built-in `socket` library. It automates basic vulnerability discovery and demonstrates Python scripting, network analysis, and cybersecurity fundamentals.
+This project is a simple Python script that scans a target host for open TCP ports (1–1025) using the built-in `socket` library. It automates basic vulnerability discovery.
 
 ## How to Run
 ```bash
